@@ -1,0 +1,2 @@
+select p.nom, Nom  = STUFF((SELECT ',' +Nom FROM Ingredient WHERE i.IngredientId=IngredientId FOR XML PATH('')) , 1 , 1 , '' )
+   from PizzaIngredients as i  INNER JOIN Pizza as p ON i.PizzaId = p.PizzaId order by p.nom

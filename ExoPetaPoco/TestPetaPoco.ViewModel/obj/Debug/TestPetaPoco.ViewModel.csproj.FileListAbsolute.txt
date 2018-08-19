@@ -1,0 +1,6 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\bin\Debug\TestPetaPoco.ViewModel.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\bin\Debug\TestPetaPoco.ViewModel.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\obj\Debug\TestPetaPoco.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\obj\Debug\TestPetaPoco.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\obj\Debug\TestPetaPoco.ViewModel.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco.ViewModel\obj\Debug\TestPetaPoco.ViewModel.pdb

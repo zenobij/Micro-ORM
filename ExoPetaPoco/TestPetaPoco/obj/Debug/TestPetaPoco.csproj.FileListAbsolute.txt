@@ -1,0 +1,15 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.exe.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\PetaPoco.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.ViewModel.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.Data.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\TestPetaPoco.ViewModel.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\PetaPoco.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\bin\Debug\PetaPoco.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\obj\Debug\TestPetaPoco.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\obj\Debug\TestPetaPoco.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\obj\Debug\TestPetaPoco.exe
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoPetaPoco\TestPetaPoco\obj\Debug\TestPetaPoco.pdb
